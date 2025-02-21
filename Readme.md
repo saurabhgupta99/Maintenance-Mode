@@ -2,7 +2,7 @@
 
 A simple **Maintenance Mode Plugin** for WordPress. It allows admins to enable a **custom maintenance page** with a **countdown timer**.
 
-![Maintenance Mode Screenshot](Screenshot1.png)(Screenshot2.png)
+![Maintenance Mode Screenshot](Screenshot1.png,Screenshot2.png)
 
 ## Features
 
